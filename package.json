@@ -1,0 +1,28 @@
+{
+  "name": "create-react-form",
+  "version": "0.0.01",
+  "description": "create-react-form",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ngduc@github.com/ngduc/create-react-form.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Duc Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngduc/create-react-form/issues"
+  },
+  "homepage": "https://github.com/ngduc/create-react-form#readme",
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "react": "16.x"
+  },
+  "devDependencies": {
+  }
+}
